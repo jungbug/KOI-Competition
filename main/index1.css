@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(39, 45, 60);
+    color: white;
+}
+
+#top-nav {
+    background-color: rgb(63, 71, 76);
+    text-align: center;
+    height: 70px;
+    font-size: 40px;
+    line-height: 70px;
+    vertical-align: middle;
+}
+
+.back-btn{
+    float: left;
+    margin-top: 10px;
+}
+
+.end-btn{
+    text-align: center;
+}
